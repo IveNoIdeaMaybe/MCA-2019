@@ -14,7 +14,7 @@
 					  <rdf:value>1934</rdf:value>
 					</collex:date>
 				</dc:date>
-				<collex:discipline> Music Studies </collex
+			<collex:discipline> Music Studies </collex>
 				<respStmt>
 					<resp> encoded by </resp>
 					<name> Ryan Shaw </name>
