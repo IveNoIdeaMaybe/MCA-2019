@@ -2,15 +2,35 @@
 <?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
-    <meiHead>
-        <fileDesc>
-            <titleStmt>
-                <title>effervescent</title>
-                <respStmt>
-                    <persName role="composer">fats waller</persName>
-                </respStmt>
-            </titleStmt>
-            <pubStmt></pubStmt>
+<meihead>
+	<filedesc>
+		<titleStmt>
+			<title> Effervescent </title>
+			<title type='subtitle'> Jazz Piano </title>
+                <role:CMT>Thomas "Fats" Waller</role:CMT>
+				<dc:date> 
+					<collex:date>
+					  <rdfs:label>1934)</rdfs:label>
+					  <rdf:value>1934</rdf:value>
+					</collex:date>
+				</dc:date>
+				<collex:discipline> Music Studies </collex
+				<respStmt>
+					<resp> encoded by </resp>
+					<name> Ryan Shaw </name>
+				</respStmt>
+			<extent unit="Kbites"> 99.7 </extent> 
+		</titleStmt>
+		<pubStmt>
+			<publisher> Ryan Shaw </publisher>
+			<address>
+				<geogName> Glasgow </geogName>
+			</address
+		<availability> 
+			<useRestrict authURI="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+authority="Creative Commons"> Creative Commons Attribution 4.0 International, CC BY-NC- SA </useRestrict>
+		</availability> 	
+		</pubStmt>	
         </fileDesc>
         <encodingDesc xml:id="encodingdesc-0000001546481543">
             <appInfo xml:id="appinfo-0000000193327711">
