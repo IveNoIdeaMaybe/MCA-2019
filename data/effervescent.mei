@@ -10,7 +10,7 @@
                 <role:CMT>Thomas "Fats" Waller</role:CMT>
 				<dc:date> 
 					<collex:date>
-					  <rdfs:label>1934)</rdfs:label>
+					  <rdfs:label>1934</rdfs:label>
 					  <rdf:value>1934</rdf:value>
 					</collex:date>
 				</dc:date>
