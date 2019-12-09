@@ -40,7 +40,7 @@ mei-filedesc > mei-titlestmt > mei-respstmt >mei-persname[role="encoder"]::befor
           }
 
    
-mei-filedesc > mei-titlestmt > mei-respstmt > mei-date::before {
+mei-filedesc > mei-titlestmt > mei-date::before {
       font-weight: bold;
       content:'\A'"Encoded in: ";
       white space:pre;
