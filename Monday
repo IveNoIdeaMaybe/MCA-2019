@@ -1,5 +1,5 @@
 <html>
-  <head>
+<head>
   <title>With Styling</title>
   <meta charset="utf-8">
   <link rel="stylesheet" href="css/myMeta.css" media="all" />
@@ -18,7 +18,7 @@
           enableDocument: true // default is true
       }
       // A MusicXML file
-      var file = 'data/effervescentoriginal.mei';
+      var file = 'data/example.mei';
       // A MEI file
       //var file = 'https://www.verovio.org/editor/brahms.mei';
       const app = new Verovio.App(document.getElementById("app"), options);
