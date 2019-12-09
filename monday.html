@@ -57,7 +57,7 @@
         scale: 50,
         adjustPageHeight: true
     })
-    fetch("data/example.mei").then(function( response ) {
+    fetch("data/effervescentoriginal.mei").then(function( response ) {
         response.text().then(function( data ) {
           var svg = vrvToolkit.renderData(data, {})
           document.getElementById('MEI').innerHTML = svg
