@@ -20,3 +20,8 @@ mei-filedesc > mei-titlestmt > mei-title {
   color: #000000;
   display: block;
 }
+
+mei-filedesc > mei-titlestmt > mei-respstmt {
+  display: block;
+  margin-top: 1em;
+}
