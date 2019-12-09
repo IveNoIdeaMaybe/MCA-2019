@@ -1,5 +1,5 @@
 <html>
-<head>
+  <head>
   <title>With Styling</title>
   <meta charset="utf-8">
   <link rel="stylesheet" href="css/myMeta.css" media="all" />
