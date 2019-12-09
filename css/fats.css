@@ -39,12 +39,13 @@ mei-filedesc > mei-titlestmt > mei-respstmt >mei-persname[role="encoder"]::befor
       white-space: pre;
           }
    
-mei-filedesc > mei-titlestmt >mei-respstmt>mei-date::before {
+mei-filedesc > mei-titlestmt > mei-respstmt > mei-date::before {
       font-weight: bold;
-      content: '\a' "Date encoded";
+      content: '\a' "Date encoded: ";
       white space:pre;
 }
- mei-filedesc > mei-titlestmt >mei-respstmt>mei-date::after {
+
+ mei-filedesc > mei-titlestmt > mei-respstmt> mei-date::after {
       content: '\a \a';
       white space:pre;
 }
