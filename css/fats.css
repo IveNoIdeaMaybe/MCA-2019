@@ -44,8 +44,9 @@ mei-filedesc > mei-titlestmt > mei-respstmt >mei-persname[role="encoder"]::after
       }
    
 mei-filedesc > mei-titlestmt > mei-respstmt > mei-date::before {
+      display: block;
       font-weight: bold;
-      content: '\a' "Date encoded: "
+      content: '\a' "Date encoded: ";
       white space:pre;
 }
 
