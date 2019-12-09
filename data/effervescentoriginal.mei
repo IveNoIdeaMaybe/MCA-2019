@@ -10,8 +10,8 @@
                 <respStmt>
                     <persName xml:id="pers01" role ="composer">Thomas "Fats" Waller</persName>   
                     <persName role="encoder">Ryan Shaw</persName>
-                    <date>2019</date>
-                </respStmt> 
+                    <date> 2019 </date>
+              </respStmt> 
             </titleStmt>
             <pubStmt>
                 <publisher>Keith Prowse Music Publishing co. Ltd</publisher> 
