@@ -38,6 +38,10 @@ mei-filedesc > mei-titlestmt > mei-respstmt >mei-persname[role="encoder"]::befor
       content: '\a' "Encoded by: ";
       white-space: pre;
           }
+
+mei-filedesc > mei-titlestmt > mei-respstmt >mei-persname[role="encoder"]::after {
+      content: '\a \a' ;
+      }
    
 mei-filedesc > mei-titlestmt > mei-respstmt > mei-date::before {
       font-weight: bold;
