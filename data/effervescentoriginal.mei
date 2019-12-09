@@ -5,18 +5,17 @@
     <meiHead>
         <fileDesc>
             <titleStmt>
-            <title>Effervescent</title>
-                <title type="subtitle"> Jazz Piano </title>
-                <persName role="composer">Thomas "Fats" Waller</persName>   
+            <title xml:id"title01">Effervescent</title>
+                <title type="subordinate"> Jazz Piano </title>
                 <respStmt>
+                    <persName xml:id="01" role ="composer">Thomas "Fats" Waller</persName>   
                     <persName role="encoder">Ryan Shaw</persName>
-                    <extent unit="Kbytes"> 99.8 </extent>
                 </respStmt> 
             </titleStmt>
             <pubStmt>
-                <publisher>Ryan Shaw</publisher> 
+                <publisher>Keith Prowse Music Publishing co. Ltd</publisher> 
                 <address> 
-                    <geogName> Glasgow </geogName>
+                    <geogName> 90 new bond street, London </geogName>
                 </address>   
                  <availability>
                 <useRestrict authURI="https://creativecommons.org/licenses/by-nc-sa/4.0/"
