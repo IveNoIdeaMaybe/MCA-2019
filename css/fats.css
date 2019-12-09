@@ -30,7 +30,7 @@ mei-filedesc > mei-titlestmt > mei-respstmt > mei-persname[role="composer"]::bef
       font-weight:bold;
       content: "Composer: ";
       white-space: pre;
-{
+}
 
 mei-filedesc > mei-titlestmt > mei-respstmt >mei-persname[role="encoder"]::before {
       font-weight: bold;
