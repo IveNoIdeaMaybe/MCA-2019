@@ -21,7 +21,7 @@ mei-filedesc > mei-titlestmt > mei-title {
   display: block;
 }
 
-mei-filedesc > mei-titlestmt > mei-respstmt {
+mei-filedesc > mei-titlestmt > {
   display: block;
   margin-top: 1em;
 }
