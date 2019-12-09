@@ -36,5 +36,7 @@ mei-filedesc > mei-titlestmt > mei-respstmt >mei-persname[role="encoder"]::befor
       font-weight: bold;
       content: "Encoded by: ";
       white-space: pre;
+      margin-top: 2em;
+
       }
 
