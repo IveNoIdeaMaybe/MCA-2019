@@ -10,9 +10,15 @@
                 <persName role="composer">Thomas "Fats" Waller</persName>   
                 <respStmt>
                     <persName role="encoder">Ryan Shaw</persName>
+                    <extent unit="Kbytes"> 99.8 </extent>
                 </respStmt> 
             </titleStmt>
-            <pubStmt></pubStmt>
+            <pubStmt>
+                <publisher> Ryan Shaw </publisher> 
+                <address> 
+                    <geogName> Glasgow </geogName>
+                </address>    
+            </pubStmt>
         </fileDesc>
         <encodingDesc xml:id="encodingdesc-0000001546481543">
             <appInfo xml:id="appinfo-0000000193327711">
