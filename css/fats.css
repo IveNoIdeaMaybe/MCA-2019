@@ -26,15 +26,10 @@ mei-filedesc > mei-titlestmt > mei-respstmt {
   margin-top: 1em;
 }
 
-mei-filedesc > mei-#01 > mei-encoder::before
+mei-filedesc > mei-encoder::before
 {
       display:block;
   margin-top: -0.5em;
 }
       
-mei-filedesc > mei-encoder::before
-{
-      display:block;
-      content: "\A";
-}
-   
+
