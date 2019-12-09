@@ -5,7 +5,9 @@
     <meiHead>
         <fileDesc>
             <titleStmt>
-     <title>Effervescent</title>
+            <title>Effervescent</title>
+                <title type="subtitle"> Jazz Piano </title>
+                
                 <respStmt>
                     <persName role="composer">Thomas "Fats" Waller</persName>
                 </respStmt>
