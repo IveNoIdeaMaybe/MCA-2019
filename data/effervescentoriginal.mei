@@ -7,11 +7,11 @@
             <titleStmt>
             <title>Effervescent</title>
                 <title type="subtitle"> Jazz Piano </title>
-                
+                <persName role="composer">Thomas "Fats" Waller</persName>   
                 <respStmt>
-                    <persName role="composer">Thomas "Fats" Waller</persName>
-                </respStmt>
-                    
+                    <resp> encoded by </resp>
+                    <name> Ryan Shaw </name> 
+                </respStmt> 
             </titleStmt>
             <pubStmt></pubStmt>
         </fileDesc>
