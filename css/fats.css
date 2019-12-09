@@ -16,3 +16,7 @@ mei-title[type="subordinate"] {
       margin-top: -0.5em;
 }
 
+mei-filedesc > mei-titlestmt > mei-title {
+  color: #000000;
+  display: block;
+}
