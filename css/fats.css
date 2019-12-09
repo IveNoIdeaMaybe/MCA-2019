@@ -21,7 +21,7 @@ mei-filedesc > mei-titlestmt > mei-title {
   display: block;
 }
 
-mei-filedesc > mei-titlestmt > {
+mei-filedesc > mei-titlestmt > mei-respstmt {
   display: block;
   margin-top: 1em;
 }
@@ -34,11 +34,11 @@ mei-filedesc > mei-titlestmt > mei-respstmt > mei-persname[role="composer"]::bef
 
 
 mei-filedesc > mei-titlestmt > mei-respstmt >mei-persname[role="encoder"]::before {
-      font-weight: bold;
+      font-weight:bold;
       content: "Encoded by: ";
       white-space: pre;
           }
-#01 {
+#pers01 {
       margin-top: 2em; 
 }
       
