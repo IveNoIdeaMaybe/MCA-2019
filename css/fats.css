@@ -32,7 +32,7 @@ mei-filedesc > mei-titlestmt > mei-respstmt > mei-persname[role="composer"]::bef
       white-space: pre;
 }
 mei-filedesc > mei-titlestmt > mei-respstmt > mei-persname[role="composer"]::after { 
-      content: '\a ;
+      content: '\a' ;
 
 }
 
