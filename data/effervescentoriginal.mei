@@ -8,7 +8,7 @@
             <title xml:id="title01">Effervescent</title>
                 <title type="subordinate"> A section of jazz piano Piece</title>
                 <respStmt>
-                    <persName xml:id="01" role ="composer">Thomas "Fats" Waller</persName>   
+                    <persName xml:id="pers01" role ="composer">Thomas "Fats" Waller</persName>   
                     <persName role="encoder">Ryan Shaw</persName>
                 </respStmt> 
             </titleStmt>
