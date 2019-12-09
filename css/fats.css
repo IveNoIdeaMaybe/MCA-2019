@@ -32,3 +32,9 @@ mei-filedesc > mei-#01 > mei-encoder::before
       content: "\A";
 }
       
+mei-filedesc > mei-encoder::before
+{
+      display:block;
+      content: "\A";
+}
+   
