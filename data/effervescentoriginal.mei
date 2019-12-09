@@ -6,7 +6,7 @@
         <fileDesc>
             <titleStmt>
             <title xml:id="title01">Effervescent</title>
-                <title type="subordinate"> A section of jazz piano Piece</title>
+                <title type="subordinate"> A segment of jazz piano </title>
                 <respStmt>
                     <persName xml:id="pers01" role ="composer">Thomas "Fats" Waller</persName>   
                     <persName role="encoder">Ryan Shaw</persName>
