@@ -9,6 +9,7 @@
                 <title type="subtitle"> Jazz Piano </title>
                 <persName role="composer">Thomas "Fats" Waller</persName>   
                 <respStmt>
+                    <persName role="encoder">Maja Hartwig</persName>
                     <resp> encoded by </resp>
                     <name> Ryan Shaw </name> 
                 </respStmt> 
