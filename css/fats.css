@@ -32,7 +32,7 @@ mei-filedesc > mei-titlestmt > mei-respstmt > mei-persname[role="composer"]::bef
       white-space: pre;
 {
 
-mei-filedesc ?mee-titlestmt > mei-respstmt >mei-persname[role="encoder"]::before {
+mei-filedesc > mei-titlestmt > mei-respstmt >mei-persname[role="encoder"]::before {
       font-weight: bold;
       content: "Encoded by: ";
       white-space: pre;
