@@ -5,10 +5,13 @@
     <meiHead>
         <fileDesc>
             <titleStmt>
-                <title>Effervescent</title>
-                <respStmt>
-                    <persName role="composer">Thomas "Fats" Waller</persName>
+                <title xml:id"title12345">Effervescent</title>
+                <title type="subordinate">an electronic transcriptions</title>
+                    <respStmt>
+                        <persName role="composer">Thomas "Fats" Waller</persName>
+                        <persName role="encoder"> Ryan Shaw </persName>
                 </respStmt>
+                    
             </titleStmt>
             <pubStmt></pubStmt>
         </fileDesc>
