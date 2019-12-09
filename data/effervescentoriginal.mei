@@ -9,7 +9,7 @@
                 <title type="subordinate"> A section of jazz piano Piece</title>
                 <respStmt>
                     <persName xml:id="01" role ="composer"><strong>Composed by:</strong>Thomas "Fats" Waller</persName>   
-                    <persName role="encoder"><strong>Encoded by:</strong>Ryan Shaw</persName>
+                    <persName role="encoder"><b>Encoded by:</b>Ryan Shaw</persName>
                 </respStmt> 
             </titleStmt>
             <pubStmt>
