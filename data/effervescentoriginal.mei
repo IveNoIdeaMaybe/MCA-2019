@@ -8,14 +8,14 @@
             <title xml:id="title01">Effervescent</title>
                 <title type="subordinate"> A section of jazz piano Piece</title>
                 <respStmt>
-                    <persName xml:id="01" role ="composer"><strong>Composed by:</strong>Thomas "Fats" Waller</persName>   
-                    <persName role="encoder"><b>Encoded by:</b>Ryan Shaw</persName>
+                    <persName xml:id="01" role ="composer">Thomas "Fats" Waller</persName>   
+                    <persName role="encoder">Ryan Shaw</persName>
                 </respStmt> 
             </titleStmt>
             <pubStmt>
-                <publisher><strong>Published by:</strong>Keith Prowse Music Publishing co. Ltd</publisher> 
+                <publisher>Keith Prowse Music Publishing co. Ltd</publisher> 
                 <address> 
-                    <geogName><strong>Found at:</strong> 90 new bond street, London </geogName>
+                    <geogName> 90 new bond street, London </geogName>
                 </address>   
                  <availability>
                 <useRestrict authURI="https://creativecommons.org/licenses/by-nc-sa/4.0/"
