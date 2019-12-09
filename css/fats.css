@@ -35,7 +35,7 @@ mei-filedesc > mei-titlestmt > mei-respstmt > mei-persname[role="composer"]::bef
 
 mei-filedesc > mei-titlestmt > mei-respstmt >mei-persname[role="encoder"]::before {
       font-weight:bold;
-      content: "Encoded by: ";
+      content: '\a' "Encoded by: ";
       white-space: pre;
           }
 #pers01 {
