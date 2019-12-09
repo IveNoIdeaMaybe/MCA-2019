@@ -14,10 +14,14 @@
                 </respStmt> 
             </titleStmt>
             <pubStmt>
-                <publisher> Ryan Shaw </publisher> 
+                <publisher>Ryan Shaw</publisher> 
                 <address> 
                     <geogName> Glasgow </geogName>
-                </address>    
+                </address>   
+                 <availability>
+                <useRestrict authURI="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+authority="Creative Commons"> Creative Commons Attribution 4.0 International, CC BY-NC- SA </useRestrict>
+              </availability>                
             </pubStmt>
         </fileDesc>
         <encodingDesc xml:id="encodingdesc-0000001546481543">
