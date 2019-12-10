@@ -49,6 +49,12 @@ mei-filedesc > mei-titlestmt > mei-respstmt > mei-date::before {
       white-space: pre;
 }
 
+mei-filedesc > mei-titlestmt > mei-respstmt > mei-date::after {
+      font-weight:bold;
+      content: '\a' ;
+      white-space: pre;
+}
+
 mei-filedesc > mei-pubstmt > mei-availability > mei-userestrict {
       display: none;
 }
@@ -58,13 +64,10 @@ mei-filedesc > mei-pubstmt > mei-availability > mei-userestrict {
 
 #cpyright     { 
         font-size: 16;
-        color: #000000;
+        color: #EEC5BC;
        display: block;
       margin-left: 4em;
      text-align: justify;
-
-      
-
 }
 
 
