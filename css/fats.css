@@ -54,5 +54,7 @@ mei-filedesc > mei-pubstmt > mei-publisher::before {
       content: "Published by: ";
       white-space: pre;
 }
-      
 
+#name-0000002025072620 {
+      display: none;
+}
