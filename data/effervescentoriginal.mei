@@ -11,21 +11,27 @@
                     <persName xml:id="pers01" role ="composer">Thomas "Fats" Waller</persName>   
                     <persName role="encoder">Ryan Shaw</persName>
                    <date> 2019 </date>
-                      
-             </respStmt> 
-                
+                </respStmt> 
             </titleStmt>
+             <availability>
+               <useRestrict>
+                   This encoding is released under the Attribution-NonCommercial-ShareAlike 4.0 International creative commons licence 
+                   however the original source documents are not under this and may be under copyright. I believe that the use of this
+                   source material for educational purposes allows its application under Fair Use, however all infringing material will 
+                   be removed if requested to do so by the copyright owner.          
+                 </useRestrict>
+            </availability>
+           
             <pubStmt>
                 <publisher>Joe Davis Inc</publisher> 
                 <yearPublished>1934</yearPublished>
-
                     <address> 
                         <geogName> New York</geogName>
                     </address>   
                      <availability>
-                    <useRestrict authURI="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+                        <useRestrict authURI="https://creativecommons.org/licenses/by-nc-sa/4.0/"
     authority="Creative Commons"> Creative Commons Attribution 4.0 International, CC BY-NC- SA 
-                    </useRestrict>                    
+                       </useRestrict>                    
                   </availability>                
             </pubStmt>
                    <identifier>
