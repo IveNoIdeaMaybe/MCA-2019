@@ -39,13 +39,14 @@ mei-filedesc > mei-titlestmt > mei-respstmt >mei-persname[role="encoder"]::befor
       white-space: pre;
           }
 
-mei-filedesc > mei-titlestmt > mei-respstmt> mei-date::before {
+
+mei-filedesc > mei-pubstmt > mei-date::before {
       font-weight: bold;
       content: '\a' "Encoded in: ";
       white space:pre;
 }
 
 
-      
+
       
 
