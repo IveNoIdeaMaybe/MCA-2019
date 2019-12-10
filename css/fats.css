@@ -57,7 +57,7 @@ mei-filedesc > mei-pubstmt > mei-publisher::before {
 
 mei-filedesc > mei-pubstmt > mei-yearpublished::before { 
       font-weight:bold;
-      content: "Originally published in: ";
+      content: '\a' "Originally published in: ";
       white-space: pre;
 }
 
