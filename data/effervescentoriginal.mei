@@ -20,7 +20,8 @@
                 </address>   
                  <availability>
                 <useRestrict authURI="https://creativecommons.org/licenses/by-nc-sa/4.0/"
-authority="Creative Commons"> Creative Commons Attribution 4.0 International, CC BY-NC- SA </useRestrict>
+authority="Creative Commons"> Creative Commons Attribution 4.0 International, CC BY-NC- SA 
+                </useRestrict>
               </availability>                
             </pubStmt>
         </fileDesc>
