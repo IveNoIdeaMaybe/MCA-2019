@@ -1,7 +1,7 @@
 # MCA week 1 
 <h1> Jazz</h1>
   <body>
-  <strong>Week 1 </strong>
+  <strong>Week 1 </strong> <br>
 The theme of my dataset is Jazz music, more specifically Thomas “fats Waller. The innovator of the Harlem stride style he laid the groundwork for modern jazz piano. Other than the piano he was a proficient violinist, organ player and singer. Two of his most well known compositions “aint misbehavin” and “honeysuckle rose” have been inducted into the Grammy Hall of Fame. Fats copyrighted over 400 compositions before his death in 1943, more than 10 copyrighted compositions for every year he lived.  I have chosen jazz and more specifically fats for my dataset as the music is one of the most unpredictable and difficult to play. The complicated scores will be interesting to encode and might shine a light upon shortcomings of digital systems when dealing with such a varied and deep genre. <br>
 
 <strong>Notated data </strong><br> 
