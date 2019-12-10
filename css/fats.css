@@ -37,7 +37,6 @@ mei-filedesc > mei-titlestmt > mei-respstmt >mei-persname[role="encoder"]::befor
       content: '\a' "Encoded in: ";
       white-space: pre;
           }
- : <!--- copy and paste teh font, content and white space, was stuck for too long with a simple fix -->)
 
 
 mei-filedesc > mei-titlestmt > mei-respstmt > mei-date::before {
