@@ -45,14 +45,7 @@ mei-filedesc > mei-titlestmt > mei>respstmt> mei-date::before {
       white space:pre;
 }
 
- mei-filedesc > mei-titlestmt > mei-respstmt> mei-date::after {
-      content: '\a \a';
-      white space:pre;
-}
-           
-      
-      
-      
+
       
       
 
