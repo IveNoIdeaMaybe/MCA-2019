@@ -27,6 +27,7 @@
             <pubStmt>
                 <publisher>Joe Davis Inc</publisher> 
                 <yearPublished>1934</yearPublished>
+                <auth.URI="https://imslp.org/wiki/Effervescent_(Waller%2C_Fats)" authority="ISMLP"> 
                     <address> 
                         <geogName> New York</geogName>
                     </address>   
