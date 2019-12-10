@@ -7,7 +7,7 @@
 }
 mei-title[type="subordinate"] {
       font size 15pt;
-      margin-top: -0.5em;
+      margin-top: -0.5px;
 }
 mei-filedesc > mei-titlestmt > mei-title {
   color: #000000;
