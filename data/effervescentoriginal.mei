@@ -19,20 +19,18 @@
                 <publisher>Joe Davis Inc</publisher> 
                 <yearPublished>1934</yearPublished>
 
-                <address> 
-                    <geogName> New York</geogName>
-                </address>   
-                 <availability>
-                <useRestrict authURI="https://creativecommons.org/licenses/by-nc-sa/4.0/"
-authority="Creative Commons"> Creative Commons Attribution 4.0 International, CC BY-NC- SA 
-                </useRestrict>                    
-              </availability> 
-                  <identifier>
-               <ref target="https://imslp.org/wiki/Effervescent_(Waller%2C_Fats)"/>
-            </identifier> 
-                
+                    <address> 
+                        <geogName> New York</geogName>
+                    </address>   
+                     <availability>
+                    <useRestrict authURI="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    authority="Creative Commons"> Creative Commons Attribution 4.0 International, CC BY-NC- SA 
+                    </useRestrict>                    
+                  </availability>                
             </pubStmt>
-            
+                   <identifier>
+                   <ref target="https://imslp.org/wiki/Effervescent_(Waller%2C_Fats)"/>
+            </identifier> 
     </fileDesc>     
             <encodingDesc xml:id="encodingdesc-0000001546481543">
                 <appInfo xml:id="appinfo-0000000193327711">
