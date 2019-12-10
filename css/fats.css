@@ -45,7 +45,7 @@ mei-filedesc > mei-titlestmt > mei-respstmt > mei-date::before {
       white-space: pre;
 }
 
-mei-filedesc > mei-pubstmt > mei-availability > mei-useRestrict {
+mei-filedesc > mei-pubstmt > mei-availability > mei-userestrict {
       display: none;
 }
 
