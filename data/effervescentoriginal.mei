@@ -24,8 +24,7 @@
                  </useRestrict>
             </availability>
             <pubStmt>
-                <corpName role="publisher" auth.URI="https://imslp.org/wiki/Effervescent_(Waller%2C_Fats)" 
-                          authority="ISMLP"> Joe Davis Inc </corpName>
+                <publisher> Joe Davis Inc </publisher>
                 <yearPublished>1934</yearPublished>
                     <address> 
                         <geogName> New York</geogName>
