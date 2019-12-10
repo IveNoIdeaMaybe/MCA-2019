@@ -26,20 +26,18 @@ authority="Creative Commons"> Creative Commons Attribution 4.0 International, CC
                 </useRestrict>                    
               </availability>    
             </pubStmt>
-        </fileDesc>
-        
-        
-        
-        <encodingDesc xml:id="encodingdesc-0000001546481543">
-            <appInfo xml:id="appinfo-0000000193327711">
-                <application xml:id="application-0000000119549133" isodate="2019-12-07T20:03:59" version="2.4.0-dev-017f725">
-                   <name xml:id="name-0000002025072620">Verovio</name>
-                    <p xml:id="p-0000001309259469">Transcoded from MusicXML</p>
-                </application>
-            </appInfo>
-        </encodingDesc>
-    </meiHead>
-    <music>
+            
+    </fileDesc>     
+            <encodingDesc xml:id="encodingdesc-0000001546481543">
+                <appInfo xml:id="appinfo-0000000193327711">
+                    <application xml:id="application-0000000119549133" isodate="2019-12-07T20:03:59" version="2.4.0-dev-017f725">
+                       <name xml:id="name-0000002025072620">Verovio</name>
+                        <p xml:id="p-0000001309259469">Transcoded from MusicXML</p>
+                    </application>
+                </appInfo>
+            </encodingDesc>
+        </meiHead>
+        <music>
         <body>
             <mdiv xml:id="mdiv-0000000693747362">
                 <score xml:id="score-0000000867954132">
