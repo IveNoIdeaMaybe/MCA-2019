@@ -49,7 +49,7 @@ mei-filedesc > mei-pubstmt > mei-availability > mei-userestrict {
       display: none;
 }
 
-mei-filedesc > mei-pubstmt > mei-publisher { 
+mei-filedesc > mei-pubstmt > mei-publisher:: before { 
       font-weight:bold;
       content: '\a' "Encoded in: ";
       white-space: pre;
