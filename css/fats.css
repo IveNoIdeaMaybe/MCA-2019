@@ -7,36 +7,29 @@
        display: block;
        font-weight: bold;
 }
-
 mei-title[type="subordinate"] {
       font size 15pt;
       margin-top: -0.5em;
 }
-
 mei-filedesc > mei-titlestmt > mei-title {
   color: #000000;
   display: block;
 }
-
 mei-filedesc > mei-titlestmt > mei-respstmt {
   display: block;
   margin-top: 1em;
 }
-
 mei-filedesc > mei-titlestmt > mei-respstmt > mei-persname[role="composer"]::before {
       font-weight:bold;
       content: "Composer: ";
           white-space: pre;
 
 }
-
 mei-filedesc > mei-titlestmt > mei-respstmt >mei-persname[role="encoder"]::before {
       font-weight:bold;
       content: '\a' "Encoded by: ";
       white-space: pre;
           }
-
-
 mei-filedesc > mei-titlestmt > mei-respstmt > mei-date::before {
       font-weight:bold;
       content: '\a' "Encoded in: ";
@@ -52,10 +45,6 @@ mei-filedesc > mei-titlestmt > mei-respstmt > mei-date::after {
 mei-filedesc > mei-pubstmt > mei-availability > mei-userestrict {
       display: none;
 }
-
-
-
-
 #cpyright     { 
         font-size: 16;
        display: block;
@@ -64,8 +53,6 @@ mei-filedesc > mei-pubstmt > mei-availability > mei-userestrict {
       margin-right: 10em;
      text-align: justify;
 }
-
-
 mei-filedesc > mei-pubstmt > mei-publisher::before { 
       font-weight:bold;
       content: '\a' "Published by: ";
