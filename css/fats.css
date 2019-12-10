@@ -1,16 +1,15 @@
 .mca
 
-mei-filedesc {
-      margin-left: 1em;
-      padding: 2em; 
-      font-family: 'Bookman' ;
+   mei-filedesc {
+      margin-left: 10em;
+      padding: 10em; 
       font-size: 50pt; 
-              color: #C43F22;
+      color: #C43F22;
       
 }
 
     #title01 {
-      font-size: 24pt;
+      font-size: 30pt;
         color: #000000;
        display: block;
        font-weight: bold;
@@ -54,14 +53,15 @@ mei-filedesc > mei-pubstmt > mei-availability > mei-userestrict {
       display: none;
 }
 
-#cpyright::before {
-      content: '\a' ;
-}
+
+
 
 #cpyright     { 
-        font-size: 12;
+        font-size: 16;
         color: #000000;
        display: block;
+      margin-left: 4em;
+      
 
 }
 
