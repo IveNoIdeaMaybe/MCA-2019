@@ -32,12 +32,12 @@ mei-filedesc > mei-titlestmt > mei-respstmt > mei-persname[role="composer"]::bef
       white-space: pre;
 }
 
-
 mei-filedesc > mei-titlestmt > mei-respstmt >mei-persname[role="encoder"]::before {
       font-weight:bold;
       content: '\a' "Encoded in: ";
       white-space: pre;
           }
+ : <!--- copy and paste teh font, content and white space, was stuck for too long with a simple fix -->)
 
 
 mei-filedesc > mei-titlestmt > mei-respstmt > mei-date::before {
