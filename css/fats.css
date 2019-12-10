@@ -61,6 +61,8 @@ mei-filedesc > mei-pubstmt > mei-availability > mei-userestrict {
         color: #000000;
        display: block;
       margin-left: 4em;
+     text-align: justify;
+
       
 
 }
