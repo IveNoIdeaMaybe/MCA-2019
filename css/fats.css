@@ -1,6 +1,6 @@
 .mca
 
-html {
+html > body {
       margin-left: 1em;
       padding: 2em; 
       font-family: "Bookman" ;
@@ -55,11 +55,14 @@ mei-filedesc > mei-pubstmt > mei-availability > mei-userestrict {
       display: none;
 }
 
+#cpyright::before {
+      content: '\a' ;
+}
+
 #cpyright     { 
         font-size: 12;
         color: #000000;
        display: block;
-      content: '\a' ;
 
 }
 
