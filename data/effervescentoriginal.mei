@@ -11,14 +11,17 @@
                     <persName xml:id="pers01" role ="composer">Thomas "Fats" Waller</persName>   
                     <persName role="encoder">Ryan Shaw</persName>
                    <date> 2019 </date>
+                   <source href="https://imslp.org/wiki/Effervescent_(Waller%2C_Fats)>
+                   </source>    
              </respStmt> 
+                
             </titleStmt>
             <pubStmt>
-                <publisher>Keith Prowse Music Publishing co. Ltd</publisher> 
+                <publisher>Joe Davis Inc</publisher> 
                 <yearPublished>1934</yearPublished>
 
                 <address> 
-                    <geogName> 90 new bond street, London </geogName>
+                    <geogName> New York</geogName>
                 </address>   
                  <availability>
                 <useRestrict authURI="https://creativecommons.org/licenses/by-nc-sa/4.0/"
