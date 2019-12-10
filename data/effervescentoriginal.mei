@@ -10,14 +10,14 @@
                 <respStmt>
                     <persName xml:id="pers01" role ="composer">Thomas "Fats" Waller</persName>   
                     <persName role="encoder">Ryan Shaw</persName>
-              </respStmt> 
+                   <date> 2019 </date>
+             </respStmt> 
             </titleStmt>
             <pubStmt>
                 <publisher>Keith Prowse Music Publishing co. Ltd</publisher> 
                 <address> 
                     <geogName> 90 new bond street, London </geogName>
                 </address>   
-               <date> 2019 </date>
                  <availability>
                 <useRestrict authURI="https://creativecommons.org/licenses/by-nc-sa/4.0/"
 authority="Creative Commons"> Creative Commons Attribution 4.0 International, CC BY-NC- SA 
