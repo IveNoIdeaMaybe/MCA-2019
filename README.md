@@ -73,7 +73,12 @@ These are rather abstract in terms of understanding exactly what they are referr
 
 **Most Common Melodic Interval**: Number of semitones corresponding to the most frequently occurring melodic interval.
 
-<a href="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/pianoroll.png"> </a>
+### Task 2 
+
+<img src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/pianoroll.png" alt="Piano roll png. If not appearing can be found above in data - pianoroll". style="max-width:100%;">
+
+
+
 
 
 
