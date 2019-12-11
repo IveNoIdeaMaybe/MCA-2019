@@ -48,7 +48,7 @@ mei-filedesc > mei-pubstmt > mei-availability > mei-userestrict {
        display: block;
        margin-top: 1em ;
       margin-left: 3em;
-      margin-right: 25em;
+      margin-right: 15em;
      text-align: justify;
 }
 mei-filedesc > mei-pubstmt > mei-respstmt > mei-publisher[role="publisher"]::before { 
