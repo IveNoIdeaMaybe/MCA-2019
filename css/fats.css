@@ -40,7 +40,7 @@ mei-filedesc > mei-titlestmt > mei-respstmt > mei-date::after {
       white-space: pre;
 }
 
-mei-filedesc > mei-publicationstmt > mei-availability > mei-userestrict {
+mei-filedesc > mei-pubstmt > mei-availability > mei-userestrict {
       display: none;
 }
 #cpyright     { 
@@ -48,28 +48,20 @@ mei-filedesc > mei-publicationstmt > mei-availability > mei-userestrict {
        display: block;
        margin-top: 1em ;
       margin-left: 3em;
-      margin-right: 15em;
+      margin-right: 10em;
      text-align: justify;
 }
-mei-filedesc > mei-publicationstmt > mei-respstmt > mei-publisher[role="publisher"]::before { 
+mei-filedesc > mei-pubstmt > mei-publisher::before { 
       font-weight:bold;
       content: '\a' "Published by: ";
       white-space: pre;
-
 }
 
-mei-filedesc > mei-publicationstmt > mei-respstmt > mei-corpname::before { 
+mei-filedesc > mei-pubstmt > mei-yearpublished::before { 
       font-weight:bold;
       content: '\a' "Originally published in: ";
       white-space: pre;
 }
-
-mei-filedesc > mei-publicationstmt > mei-address > mei-pubpelace::before { 
-      font-weight:bold;
-      content: '\a' "Publishing house in: ";
-      white-space: pre;
-}
-
 
 #name-0000002025072620 {
       display: none;
