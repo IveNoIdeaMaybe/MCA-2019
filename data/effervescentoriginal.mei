@@ -23,18 +23,13 @@
                        </title>
                  </useRestrict>
             </availability>
-            <pubStmt>
+            
                <publicationStmt>
- <publisher>Oxford University Press</publisher>
- <pubPlace>Oxford</pubPlace>
- <date>1989</date>
-</publicationStmt>
-                    <corpName role="publisher"> Joe Davis Inc </corpName> 
-                <yearPublished>1934</yearPublished>
-                    <address> 
-                   </respStmt>
-                        <pubPlace> New York </pubPlace>
-                    </address>   
+                 <publisher>Joe Davis Inc</publisher>
+                 <pubPlace>New York</pubPlace>
+                 <date>1934</date>
+                </publicationStmt>
+                  
                      <availability>
                         <useRestrict authURI="https://creativecommons.org/licenses/by-nc-sa/4.0/"
     authority="Creative Commons"> Creative Commons Attribution 4.0 International, CC BY-NC- SA 
