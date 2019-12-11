@@ -52,16 +52,27 @@ transformed into an MEI file through Verovio.
 These are rather abstract in terms of understanding exactly what they are referring too therefore in the efforts of keeping a clean table i will list definitions below in the order they are shown above:
 
 Number of Pitches: The number of unique pitches which occur at least once in the piece.
+
 Number of Pitch classes: The nunmber of pitch classes which occur at least once in the piece.
-Range: Difference in semitones between the highest and lowest pitches
-Strong Tonal centres: Number of isolated peaks in the fifhts pitch hostogram that each individually 
+
+Range: Difference in semitones between the highest and lowest pitches.
+
+Strong Tonal centres: Number of isolated peaks in the fifhts pitch hostogram that each individually.
+
 Mean Pitch: Mean MIDI pitch value, averaged out across all outched notes in the piece. Set to 0 if there are no pitches notes.
-Mean Pitch class: mean The pitch class that occurs most frequently compared to other pitch classes. A value of 0 corresponds to C, and pitches increase chromatically by semitone in integer units
-Most Common Pitch: MIDI pitch value of the most frequently occurring pitch
-Most Common Pitch class: The pitch class that occurs most frequently compared to other pitch classes. A value of 0 corresponds to C, and pitches increase chromatically by semitone in integer untis 
-Interval between Most Prevalent Pitches: Absolute value of the difference (in semitones) between the pitches of the two most frequently occurring pitches
+
+Mean Pitch class: mean The pitch class that occurs most frequently compared to other pitch classes. A value of 0 corresponds to C, and pitches increase chromatically by semitone in integer units.
+
+Most Common Pitch: MIDI pitch value of the most frequently occurring pitch.
+
+Most Common Pitch class: The pitch class that occurs most frequently compared to other pitch classes. A value of 0 corresponds to C, and pitches increase chromatically by semitone in integer untis.
+
+Interval between Most Prevalent Pitches: Absolute value of the difference (in semitones) between the pitches of the two most frequently occurring pitches.
+
 Pitch variability: Standard deviation of the MIDI pitches of all pitched notes in the piece. Provides a measure of how close the pitches as a whole are to the mean pitch.
-Most Common Melodic Interval: Number of semitones corresponding to the most frequently occurring melodic interval
+
+Most Common Melodic Interval: Number of semitones corresponding to the most frequently occurring melodic interval.
+
 
 
 
