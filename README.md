@@ -35,6 +35,8 @@ transformed into an MEI file through Verovio.
 
 # Week 4: Basic Analytics 
 
+##Generating data with jSymbolic
+
 |description   |Value   |         
 |---|---|
 |Number of Pitches   |37   |      the number of unique pitches which occur at least once in the piece
@@ -73,13 +75,18 @@ These are rather abstract in terms of understanding exactly what they are referr
 
 **Most Common Melodic Interval**: Number of semitones corresponding to the most frequently occurring melodic interval.
 
+You can access the MIDI file used <a href="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/effervescent%20.mid"> here 
+ </a>
+
 ### Task 2 
 
-Pianoroll
+**Pianoroll**
 
-<img src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/pianoroll.png" alt="Piano roll screenshot" style="width:500px;height:500px;">
+<img src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/pianoroll.png" alt="Piano roll" style="width:500px;height:500px;">
 
+Histogram
 
+<img src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/histogram.png" alt="Histogram" style="width:500px;height:500px;">
 
 
 
