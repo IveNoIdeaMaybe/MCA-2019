@@ -23,13 +23,11 @@
                        </title>
                  </useRestrict>
             </availability>
-            
                <publicationStmt>
                  <publisher>Joe Davis Inc</publisher>
                  <pubPlace>New York</pubPlace>
                  <date>1934</date>
                 </publicationStmt>
-                  
                      <availability>
                         <useRestrict authURI="https://creativecommons.org/licenses/by-nc-sa/4.0/"
     authority="Creative Commons"> Creative Commons Attribution 4.0 International, CC BY-NC- SA 
@@ -40,7 +38,6 @@
                    <ref target="https://imslp.org/wiki/Effervescent_(Waller%2C_Fats)"/>
             </identifier> 
     </fileDesc>     
-        
             <encodingDesc xml:id="encodingdesc-0000001546481543">
                 <appInfo xml:id="appinfo-0000000193327711">
                     <application xml:id="application-0000000119549133" isodate="2019-12-07T20:03:59" version="2.4.0-dev-017f725">
