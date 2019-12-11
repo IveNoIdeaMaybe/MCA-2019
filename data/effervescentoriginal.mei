@@ -29,7 +29,7 @@
                 <yearPublished>1934</yearPublished>
                     <address> 
                    </respStmt>
-                        <pubPlace codedval="7007567" authURI="http://www.getty.edu/vow/TGNServlet?english=Y&ampfind=new+york+city&ampplace=&amppage=1&ampnation="
+                        <pubPlace codedval="7007567" authURI="http://www.getty.edu/vow/TGNServlet?english=Y&amp;find=new+york+city&amp;place=&amp;page=1&amp;nation="
                                     authority="TGN">New York</pubPlace>
                     </address>   
                      <availability>
