@@ -64,7 +64,7 @@ mei-filedesc > mei-pubstmt > mei-yearpublished::before {
       white-space: pre;
 }
 
-mei-filedesc > mei-pubstmt > mei-address::before { 
+mei-filedesc > mei-pubstmt > mei-address > mei-geogname::before { 
       font-weight:bold;
       content: '\a' "Publishing house in: ";
       white-space: pre;
