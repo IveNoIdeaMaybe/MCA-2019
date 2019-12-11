@@ -37,8 +37,14 @@ transformed into an MEI file through Verovio.
 
 |description   |Value   |  
 |---|---|
-|fy   |37   |  
-|  d |   12|  
-|   f|   57| 
-|   h|   2|
-|f|65|
+|Number of Pitches   |37   |  
+|  Number of Pitch classes  |   12|  
+|   Range|   57| 
+|   Strong Tonal centres|   2|
+| Mean Pitch  |65|
+|Mean Pitch Class|4.958|
+|Most Common Pitch|65|
+|Most Common Pitch class|5|
+|Interval between most prevalent pitches|7|
+|Pitch variability|11.32|
+|Most Common Melodic Interval|2|
