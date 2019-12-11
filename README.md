@@ -75,7 +75,7 @@ These are rather abstract in terms of understanding exactly what they are referr
 
 ### Task 2 
 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/pianoroll.png" class="hoverZoomLink"><img src="/cptodd757/MCA-2019/raw/master/Week_9/beethoven/session.PNG" alt="screenshot didn't load" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="/IveNoIdeaMaybe/MCA-2019/blob/master/data/pianoroll.png" class="hoverZoomLink"><img src="/cptodd757/MCA-2019/raw/master/Week_9/beethoven/session.PNG" alt="screenshot didn't load" style="max-width:100%;"></a>
 
 <img src="/IveNoIdeaMaybe/MCA-2019/blob/master/data/pianoroll.png" alt="Piano roll png. If not appearing can be found above in data - pianoroll". style="max-width:100%;">
 
