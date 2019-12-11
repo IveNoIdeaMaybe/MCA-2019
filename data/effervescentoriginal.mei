@@ -24,12 +24,16 @@
                  </useRestrict>
             </availability>
             <pubStmt>
-                <respStmt>
+               <publicationStmt>
+ <publisher>Oxford University Press</publisher>
+ <pubPlace>Oxford</pubPlace>
+ <date>1989</date>
+</publicationStmt>
                     <corpName role="publisher"> Joe Davis Inc </corpName> 
                 <yearPublished>1934</yearPublished>
                     <address> 
                    </respStmt>
-                        <pubPlace> New York</pubPlace>
+                        <pubPlace> New York </pubPlace>
                     </address>   
                      <availability>
                         <useRestrict authURI="https://creativecommons.org/licenses/by-nc-sa/4.0/"
