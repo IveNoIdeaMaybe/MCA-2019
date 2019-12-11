@@ -54,6 +54,8 @@ mei-filedesc > mei-pubstmt > mei-availability > mei-userestrict {
 mei-filedesc > mei-pubstmt > mei-publisher::before { 
       font-weight:bold;
       content: '\a' "Published by: ";
+            white-space: pre;
+
 }
 
 mei-filedesc > mei-pubstmt > mei-yearpublished::before { 
