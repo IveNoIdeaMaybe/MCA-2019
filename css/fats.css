@@ -63,6 +63,12 @@ mei-filedesc > mei-pubstmt > mei-yearpublished::before {
       white-space: pre;
 }
 
+mei-filedesc > mei-pubstmt > mei-address > mei-geogname::before { 
+      font-weight:bold;
+      content: '\a' "Publishing house location: ";
+      white-space: pre;
+}
+
 #name-0000002025072620 {
       display: none;
 }
