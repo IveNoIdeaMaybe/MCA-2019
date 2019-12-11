@@ -35,9 +35,9 @@ transformed into an MEI file through Verovio.
 
 # Week 4: Basic Analytics 
 
-|description   |Value   |  
+|description   |Value   |         
 |---|---|
-|Number of Pitches   |37   |  
+|Number of Pitches   |37   |      the number of unique pitches which occur at least once in the piece
 |  Number of Pitch classes  |   12|  
 |   Range|   57| 
 |   Strong Tonal centres|   2|
@@ -48,3 +48,4 @@ transformed into an MEI file through Verovio.
 |Interval between most prevalent pitches|7|
 |Pitch variability|11.32|
 |Most Common Melodic Interval|2|
+
