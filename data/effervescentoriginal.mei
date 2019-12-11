@@ -24,11 +24,13 @@
                  </useRestrict>
             </availability>
             <pubStmt>
-                <publisher> Joe Davis Inc </publisher>
+                <respStmt>
+                    <corpName role="publisher"> Joe Davis Inc </corpName> 
                 <yearPublished>1934</yearPublished>
                     <address> 
-                        <geogName codedval="7007567" authURI="http://www.getty.edu/vow/TGNServlet?english=Y&find=new+york+city&place=&page=1&nation="
-                                    authority="TGN">New York</geogName>
+                   </respStmt>
+                        <pubPlace codedval="7007567" authURI="http://www.getty.edu/vow/TGNServlet?english=Y&find=new+york+city&place=&page=1&nation="
+                                    authority="TGN">New York</pubPlace>
                     </address>   
                      <availability>
                         <useRestrict authURI="https://creativecommons.org/licenses/by-nc-sa/4.0/"
