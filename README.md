@@ -26,3 +26,19 @@ version of Effervescent  by Fats Waller. I found this sheet
 music on a compilation called <i>Rhythmic Piano solos</i>.The source that I used is linked
 <a href="https://imslp.org/wiki/Effervescent_(Waller%2C_Fats)"> here
  </a>
+
+# Week 3: Encoding notates music 
+
+<a href="https://ivenoideamaybe.github.io/MCA-2019/verovio.html"> Here </a>
+is my encoded version of <i> Effervescent </i> after it has been 
+transformed into an MEI file through Verovio.
+
+# Week 4: Basic Analytics 
+
+|description   |Value   |  
+|---|---|
+|fy   |37   |  
+|  d |   12|  
+|   f|   57| 
+|   h|   2|
+|f|65|
