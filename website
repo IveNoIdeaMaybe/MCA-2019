@@ -9,12 +9,19 @@
   <body>
 
   <div class="topnav">
-    <a href="lab_tasks/wee1.html">Week 1</a>
+    <a href="website">Week 1</a>
+  <a href="verovio.html">Week 2</a>
+  <a href="lab_tasks/week_3/task.html">Week 3</a>
+  <a href=""lab_tasks/week_4/task.html">Week 4</a>
+  <a href="myMeta.html">Week 7</a>
+  <a href="lab_tasks/week_8/task.html">Week 8</a>
+  <a href="lab_tasks/week_9/task.html">Week 9</a>
+  <a href="lab_tasks/week_10/task.html">Week 10</a>
   </div>
   
   
   <div id="website">
-  Music Curation And Analytics Portfolio<br/>2322320G<br/>
+  Music Curation And Analytics Portfolio
   </div>
 
   <p class="el_center">
