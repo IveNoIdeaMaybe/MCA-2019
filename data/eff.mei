@@ -35,9 +35,11 @@
                        </useRestrict>                    
                   </availability>                
             </pubStmt>
+            <sourceDesc>
                    <identifier>
                    <ref target="https://imslp.org/wiki/Effervescent_(Waller%2C_Fats)"/>
-            </identifier> 
+            </identifier>
+            </sourceDesc>    
     </fileDesc>     
             <encodingDesc xml:id="encodingdesc-0000001546481543">
                 <appInfo xml:id="appinfo-0000000193327711">
