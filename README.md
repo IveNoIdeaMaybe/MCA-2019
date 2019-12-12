@@ -17,7 +17,7 @@ There is a plethora of acoustic data that can be found on all the major streamin
 Since Fats Waller was such an innovator there is widespread descriptive data on him and his work. Not to mention the two compositions that are in theGrammy Hall of Fame there are full in depth biographies on websites such as the encyclopedia britannica. There is a lot of information on the multiple biographies and studies into the life and accomplishments of Fats Waller including who he worked with and influenced. This kind of data lends itself to being able to create a playlist of similar artists of the time. However mostly because of the time he was active the best information we can get is from the original recordings and packaging which includes information such as who he worked with on the piece. Furthermore because it is a somewhat a specific genre there are plenty of compilations of artists which were made before the digital age but readily create a profile of Fats by who he is commonly placed with. A product of the time his recordings are not compiled into albums but limited to vinyl records therefore there is a hard stop on how long a piece could be. Modern efforts have digitised his more popular works into best of’s etc.
 
 
-# week 2: Notated Music 
+# Week 2: Notated Music 
 
 Here i have uploaded a a MuseScore file containing 21 bars of Fats Waller's <a href="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/effervescent%20.mscz">
 <i>Effervescent </i> </a> 
@@ -59,7 +59,7 @@ These are rather abstract in terms of understanding exactly what they are referr
 
 **Range**: Difference in semitones between the highest and lowest pitches.
 
-**Strong Tonal centres**: Number of isolated peaks in the fifhts pitch hostogram that each individually.
+**Strong Tonal centres**: Number of isolated peaks in the fifths pitch histogram.
 
 **Mean Pitch**: Mean MIDI pitch value, averaged out across all outched notes in the piece. Set to 0 if there are no pitches notes.
 
@@ -84,9 +84,14 @@ You can access the MIDI file used <a href="https://github.com/IveNoIdeaMaybe/MCA
 
 <img src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/pianoroll.png" alt="Piano roll" style="width:500px;height:500px;">
 
-Histogram
+Here the Piano roll shows the length and pitch of the notes against time showing trends towards high points and low points and how they 
+are typically gradually worked towards. Interestingly it does not look as if F is far and beyond the most played note but looking at the histogram adds this information. 
+
+**Histogram**
 
 <img src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/histogram.png" alt="Histogram" style="width:500px;height:500px;">
+
+here without time playing a factor we can see more clearly the most popular notes and chords of the piece. in Conjunction with the jSymbolic most common pitch being 65, this is equivalent to the F4 shown here to be nearly doubly as frequent as all other notes excluding three. Also the compressed nature of the most played notes aligns with the small number of only 2 strong tonal centers. 
 
 
 
