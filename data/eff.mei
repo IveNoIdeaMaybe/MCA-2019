@@ -7,8 +7,8 @@
             <titleStmt>
             <title xml:id="title01">Effervescent</title>
                 <title type="subordinate"> A Jazz Piano piece</title>
-                    <persName xml:id="pers01" role ="composer">Thomas "Fats" Waller</persName>   
                 <respStmt>
+                    <persName xml:id="pers01" role ="composer">Thomas "Fats" Waller</persName>   
                     <persName role="encoder">Ryan Shaw</persName>
                    <date> 2019 </date>
                 </respStmt> 
