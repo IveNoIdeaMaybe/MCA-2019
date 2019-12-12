@@ -91,12 +91,12 @@ are typically gradually worked towards. Interestingly it does not look as if F i
 
 <img src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/histogram.png" alt="Histogram" style="width:500px;height:500px;">
 
-here without time playing a factor we can see more clearly the most popular notes and chords of the piece. in Conjunction with the jSymbolic most common pitch being 65, this is equivalent to the F4 shown here to be nearly doubly as frequent as all other notes excluding three. Also the compressed nature of the most played notes aligns with the small number of only 2 strong tonal centers. 
+Here without time playing a factor we can see more clearly the most popular notes and chords of the piece. in Conjunction with the jSymbolic most common pitch being 65, this is equivalent to the F4 shown here to be nearly doubly as frequent as all other notes excluding three. Also the compressed nature of the most played notes aligns with the small number of only 2 strong tonal centers. 
 
 **Scattergraph**
 
 <img src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/scatter.png" style="width:500px;height:500px;">
 
-
+This is my favourite dataset visualisation as it shows the nature of Jazz music most clearly. The old style time signiture of 2/2 promotes fast playing and this is what we see here. With a strong trend of high pitch notes being played fast envoking excitement coupled with the relatively slow whole beats at a lower pitch gradually making the tone more serious right before it jumps back up to the higher registers. 
 
 
