@@ -103,16 +103,18 @@ This is my favourite dataset visualisation as it shows the nature of Jazz music 
 
 # Week5 
 <b>
-+ Title 
-+ Composer 
-+ Genre 
-+ Encoder 
-+ Date of encoding 
-+ Availability/Copyright 
-+ Original publisher 
-+ Date of publication 
-+ Location of publication 
-+ Source 
+ 
+* Title 
+* Composer 
+* Genre 
+* Encoder 
+* Date of encoding 
+* Availability/Copyright 
+* Original publisher 
+* Date of publication 
+* Location of publication 
+* Source 
+
 </b>
 
 
