@@ -26,6 +26,7 @@ version of Effervescent  by Fats Waller. I found this sheet
 music on a compilation called <i>Rhythmic Piano solos</i>.The source that I used is linked
 <a href="https://imslp.org/wiki/Effervescent_(Waller%2C_Fats)"> here
  </a>
+ 
 
 # Week 3: Encoding notates music 
 
@@ -33,13 +34,14 @@ music on a compilation called <i>Rhythmic Piano solos</i>.The source that I used
 is my encoded version of <i> Effervescent </i> after it has been 
 transformed into an MEI file through Verovio.
 
+
 # Week 4: Basic Analytics 
 
-##Generating data with jSymbolic
+## Generating data with jSymbolic
 
 |description   |Value   |         
 |---|---|
-|Number of Pitches   |37   |      the number of unique pitches which occur at least once in the piece
+|Number of Pitches   |37   |     
 |  Number of Pitch classes  |   12|  
 |   Range|   57| 
 |   Strong Tonal centres|   2|
@@ -98,5 +100,45 @@ Here without time playing a factor we can see more clearly the most popular note
 <img src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/scatter.png" style="width:500px;height:500px;">
 
 This is my favourite dataset visualisation as it shows the nature of Jazz music most clearly. The old style time signiture of 2/2 promotes fast playing and this is what we see here. With a strong trend of high pitch notes being played fast envoking excitement coupled with the relatively slow whole beats at a lower pitch gradually making the tone more serious right before it jumps back up to the higher registers. 
+
+# Week5 
+<b>
+* Title 
+* Composer 
+* Genre 
+* Encoder 
+* Date of encoding 
+* Availability/Copyright 
+*Original publisher 
+*date of publication 
+*location of publication 
+*Source 
+</b>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
