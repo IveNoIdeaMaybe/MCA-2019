@@ -121,6 +121,15 @@ Here linked is the mei file for <a href="https://github.com/IveNoIdeaMaybe/MCA-2
  because it is such an integral part of the piece.
 
 
+# Week 7 Curation Challenges 
+
+I have not changed the mei file a massive amount from last week as I included all of the information that 
+I believe is neccisary or that i could find solid proof for. For example I could not find the full book information 
+which the piece is republished in however I have included a link to the url in the html. Furthermore I have no included the 
+extent or duration of the piece because what is presented is not the whole work. so a duration timestamp would only be confusing. 
+Mainly ive added css to get the layout of the page clear and concise. You can see this <a href="https://ivenoideamaybe.github.io/MCA-2019/myMeta.html"> webpage here </a> with
+the piece on show through Verovio as well as all of the information stated above, and some more within the code. 
+
 
 
 
