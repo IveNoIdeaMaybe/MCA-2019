@@ -93,6 +93,10 @@ are typically gradually worked towards. Interestingly it does not look as if F i
 
 here without time playing a factor we can see more clearly the most popular notes and chords of the piece. in Conjunction with the jSymbolic most common pitch being 65, this is equivalent to the F4 shown here to be nearly doubly as frequent as all other notes excluding three. Also the compressed nature of the most played notes aligns with the small number of only 2 strong tonal centers. 
 
+**Scattergraph**
+
+<img src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/scatter.png" style="width:500px;height:500px;">
+
 
 
 
