@@ -140,6 +140,9 @@ the piece on show through Verovio as well as all of the information stated above
 here are the respective wavelenghts and spectograms of my three songs - this is just a section, you can click on them to see the
 full waveform/spectogram. 
 
+**Upbeat Party**
+
+<img src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/upbeatsmallwave.png" style="width:500px;height:300px;">
 
 
 
