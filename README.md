@@ -143,9 +143,17 @@ full waveform/spectogram.
 **Upbeat Party**
 
 <img src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/upbeatsmallwave.png" style="width:500px;height:300px;">
+<img src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/upbeatsmallspecto.png" style="width:500px;height:300px;">
 
+**KIRK**
 
+<img src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/kirksmallwave.png" style="width:500px;height:300px;">
+<img src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/kirksmallspecto.png" style="width:500px;height:300px;">
 
+**Ketsa**
+
+<img src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/ketsasmallwave.png" style="width:500px;height:300px;">
+<img src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/ketsasmallspecto.png" style="width:500px;height:300px;">
 
 
 
