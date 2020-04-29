@@ -155,10 +155,8 @@ full waveform/spectogram.
 <img src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/ketsasmallwave.png" style="width:500px;height:300px;">
 <img src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/ketsasmallspecto.png" style="width:500px;height:300px;">
 
-
-<<img src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/kirksmallwave.png" style="width:500px;height:300px;">
->![test]</a>
-https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/kirkwave.png
+<a href="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/kirkwave.png"> 
+<img src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/kirksmallwave.png" style="width:500px;height:300px;"> </a>
 
 
 
