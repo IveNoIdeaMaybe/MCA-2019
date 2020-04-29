@@ -135,6 +135,17 @@ the piece on show through Verovio as well as all of the information stated above
 
 # Week 8 Music as Sound 
 
+### Task 2 
+
+here are the respective wavelenghts and spectograms of my three songs - this is just a section, you can click on them to see the
+full waveform/spectogram. 
+
+
+
+
+
+
+
 
 
 
