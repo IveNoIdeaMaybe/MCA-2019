@@ -158,7 +158,7 @@ full waveform/spectogram.
 
 <<img src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/kirksmallwave.png" style="width:500px;height:300px;">
 >![test][1]</a>
-[1]: https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/kirkwave.png
+[1]:https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/kirkwave.png
 
 
 
