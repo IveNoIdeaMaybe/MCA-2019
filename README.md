@@ -147,16 +147,19 @@ full waveform/spectogram.
 
 **KIRK**
 
-<img src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/kirksmallwave.png" style="width:500px;height:300px;">
-<img src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/kirksmallspecto.png" style="width:500px;height:300px;">
+<a href="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/kirkwave.png"> 
+<img src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/kirksmallwave.png" style="width:500px;height:300px;"> </a>
+
+<a href="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/kirkspecto.png"> 
+<img src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/kirksmallspecto.png" style="width:500px;height:300px;"> </a>
+
+
 
 **Ketsa**
 
 <img src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/ketsasmallwave.png" style="width:500px;height:300px;">
 <img src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/ketsasmallspecto.png" style="width:500px;height:300px;">
 
-<a href="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/kirkwave.png"> 
-<img src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/kirksmallwave.png" style="width:500px;height:300px;"> </a>
 
 
 
