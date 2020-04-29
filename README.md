@@ -133,6 +133,9 @@ the piece on show through Verovio as well as all of the information stated above
 
 
 
+# Week 8 Music as Sound 
+
+
 
 
 
