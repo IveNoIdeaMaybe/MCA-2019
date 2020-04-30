@@ -184,15 +184,17 @@ A lot of the time looking at computational analysis is difficult to read because
 
 ## Task 1: Extract features 
 
+**Scott Holmes**
 
-<img src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/scatter.png" style="width:500px;height:500px;">
+<img src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/week9/upbeatweek9.png" style="width:500px;height:500px;">
 
+**K.I.R.K**
 
+<img src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/week9/kkirkweek9.png" style="width:500px;height:500px;">
 
+**Ketsa**
 
-
-
-
+<img src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/week9/ketsaweek9.png" style="width:500px;height:500px;">
 
 
 
