@@ -179,9 +179,13 @@ full waveform/spectogram.
 
 A lot of the time looking at computational analysis is difficult to read because we have no context however by seeing the waveform and spectogram side by side we are able to understand what each is telling us with a much better comprehension. By using a spectrogram (with log spaced frequency spectogram it illuminates the specific keys or notes that are being used or hit, we can see this much more clearly in Ketsa's piece as it is predominantly electronic whereas the differentiations are not as clear with K.I.R.K's song as it is more vocal and so there is a lot more noise essentially rather than pinpointing keys capable through a computer 
 
-# Week 9 
+# Week 9: Extracting Meaning from Audio
 
 
+## Task 1: Extract features 
+
+
+<img src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/scatter.png" style="width:500px;height:500px;">
 
 
 
