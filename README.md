@@ -206,11 +206,16 @@ A lot of the time looking at computational analysis is difficult to read because
 
 # Week 10 
 
-<img src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/week10/matrix.png" style="width:200px;height:200px;">
+## task 1  Similarity in Python
 
+<img src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/week10/matrix.png" style="width:200;height:200;">
 
+--- 
+## task 2 Transcription in MuseScore and SonicVisualizer
 
+<img src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/week10/week10notated.png" style="width:200px;height:200px;">
 
+<img src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/week10/week10midi.png" style="width:200px;height:200px;">
 
 
 
