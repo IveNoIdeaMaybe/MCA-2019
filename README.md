@@ -139,59 +139,17 @@ the piece on show through Verovio as well as all of the information stated above
 
 present the three chosen songs and relative metadata in a table 
 
+
 **Table** 
-<table class="task">
- 	<tr class="title"> 
- 		<td> Artist </td>
- 		<td> Title </td>
- 		<td> Album </td>
- 		<td> Genre </td>
- 		<td> Year released  </td>
- 		<td> Source </td>
-		<td> Copyright </td>
-		<td> Format </td>
-		<td> Kbps </td>
-   <td> Sample rate (Hz) </td> 
-		<td> Duration (minutes) </td>
- 	</tr>
- 	<tr> 
- 		<td class="title"> Scott Holmes </td>
- 		<td> Upbeat Party </td>
- 		<td> Inspiring and Upbeat Music </td>
- 		<td> Pop, Soundtrack, Indie-Rock </td>
- 		<td> 2019 </td>
- 		<td> <a href="http://freemusicarchive.org/music/Scott_Holmes/Inspiring__Upbeat_Music/Scott_Holmes_-_Upbeat_Party">The Free Music Archive</a></td>
- 		<td> CC BY-NC 4.0  </td>
- <td> .mp3 </td>
-  		<td> 320 </td>
-   <td> 44100 </td>
-		<td> 2:24 </td>
- 	</tr>
- 	<tr> 
-   <td class="title"> K.I.R.K </td>
- 		<td> Yoga </td>
- 		<td> 825 Literature </td>
- 		<td> Hip-Hop, Spoken Word </td>
- 		<td> 2018 </td>
- 		<td> <a href="http://freemusicarchive.org/music/Jay_Kirk/825_Literature/yoga_master">The Free Music Archive</a></td>
- 		<td> CC BY-NC-ND 4.0  </td>
- <td> .mp3 </td>
-  		<td> 320 </td>
-   <td> 44100 </td>
-		<td> 2:38 </td>
- 	</tr>
-    <td class="title"> Ketsa </td>
- 		<td> Enclosed </td>
- 		<td> Raising frequency </td>
- 		<td> Soundtrack, Ambient Electronic, Downtempo, Instrumental </td>
- 		<td> 2019 </td>
- 		<td> <a href="http://freemusicarchive.org/music/Ketsa/Raising_Frequecy/Enclosed">The Free Music Archive</a></td>
- 		<td> CC BY-NC-ND 4.0  </td>
- <td> .mp3 </td>
-  		<td> 192 </td>
-   <td> 44100 </td>
-		<td> 2:38 </td>
- 	</tr>
+
+|Artist |Title |Album |Genre | Year released  |Source |Copyright |Format|Kbps|Sample rate (Hz)|Duration (minutes)|
+|-------|------|------|------|---------------|------|-----------|------|----|----------------|------------------|
+|Scott Holmes |Upbeat Party | Inspiring and Upbeat Music |Pop, Soundtrack, Indie-Rock |2019 |<a href="http://freemusicarchive.org/music/Scott_Holmes/Inspiring__Upbeat_Music/Scott_Holmes_-_Upbeat_Party">The Free Music Archive</a> | CC BY-NC 4.0 |mp3 |320 |44100 | 2:24 |
+|K.I.R.K |Yoga | 825 Literature	 |Hip-Hop, Spoken Word	 |2018 |<a href="https://freemusicarchive.org/music/Jay_Kirk/825_Literature/yoga_master">The Free Music Archive</a> | CC BY-NC-ND 4.0	 |mp3 |320 |44100 | 2:38 |
+|Ketsa |Enclosed | Raising frequency |Soundtrack, Ambient Electronic, Downtempo, Instrumental |2019 |<a href="https://freemusicarchive.org/music/Ketsa/Raising_Frequecy/Enclosed">The Free Music Archive</a> | CC BY-NC-ND 4.0	 |mp3 |192 |44100 | 3:31 |
+
+
+
 
 ### Task 2 
 
