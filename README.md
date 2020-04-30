@@ -196,8 +196,20 @@ A lot of the time looking at computational analysis is difficult to read because
 
 <img src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/week9/ketsaweek9.png" style="width:500px;height:500px;">
 
+## Task 2 Histiograms 
 
 
+<img align="left" width="1000" height="1000"  src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/week9/upbeatspectohist.png">
+
+<img align="center" width="1000" height="1000"  src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/week9/kirkspectohist.png">
+
+<img align="right" width="1000" height="1000"  src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/week9/Ketsaspectohist.png">
+
+
+
+# Week 10 
+
+<img src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/week10/matrix.png" style="width:200px;height:200px;">
 
 
 
