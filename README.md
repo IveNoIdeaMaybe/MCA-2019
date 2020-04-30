@@ -135,7 +135,7 @@ the piece on show through Verovio as well as all of the information stated above
 
 # Week 8 Music as Sound 
 
-### Task 1 
+## Task 1 
 
 <table class="task">
  	<tr class="title"> 
@@ -149,7 +149,6 @@ the piece on show through Verovio as well as all of the information stated above
 		<td> Format </td>
 		<td> Kbps </td>
    <td> Sample rate (Hz) </td> 
-		<td> Bit per Second </td>
 		<td> Duration (minutes) </td>
  	</tr>
  	<tr> 
