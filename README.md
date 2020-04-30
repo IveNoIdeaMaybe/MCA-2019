@@ -156,12 +156,12 @@ present the three chosen songs and relative metadata in a table
 here are the respective wavelenghts and spectograms of my three songs - this is just a section, you can click on them to see the
 full waveform/spectogram. 
 
-**Upbeat Party**
+**Scott Holmes**
 
 <img src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/upbeatsmallwave.png" style="width:500px;height:300px;">
 <img src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/upbeatsmallspecto.png" style="width:500px;height:300px;">
 
-**KIRK**
+**K.I.R.K**
 
 <a href="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/kirkwave.png"> 
 <img src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/kirksmallwave.png" style="width:500px;height:300px;"> </a>
@@ -170,13 +170,14 @@ full waveform/spectogram.
 <img src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/kirksmallspecto.png" style="width:500px;height:300px;"> </a>
 
 
-
 **Ketsa**
 
 <img src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/ketsasmallwave.png" style="width:500px;height:300px;">
 <img src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/ketsasmallspecto.png" style="width:500px;height:300px;">
 
+### Task 2.2
 
+A lot of the time looking at computational analysis is difficult to read because we have no context however by seeing the waveform and spectogram side by side we are able to understand what each is telling us with a much better comprehension. By using a spectrogram (with log spaced frequency spectogram it illuminates the specific keys or notes that are being used or hit, we can see this much more clearly in Ketsa's piece as it is predominantly electronic whereas the differentiations are not as clear with K.I.R.K's song as it is more vocal and so there is a lot more noise essentially rather than pinpointing keys capable through a computer 
 
 # Week 9 
 
