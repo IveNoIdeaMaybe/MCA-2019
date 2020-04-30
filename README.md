@@ -135,8 +135,11 @@ the piece on show through Verovio as well as all of the information stated above
 
 # Week 8 Music as Sound 
 
-## Task 1 present the three chosen songs and relative metadata in a table 
+## Task 1 
 
+present the three chosen songs and relative metadata in a table 
+
+**Table** 
 <table class="task">
  	<tr class="title"> 
  		<td> Artist </td>
@@ -217,7 +220,7 @@ full waveform/spectogram.
 
 
 
-
+# Week 9 
 
 
 
