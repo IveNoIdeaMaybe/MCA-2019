@@ -135,7 +135,7 @@ the piece on show through Verovio as well as all of the information stated above
 
 # Week 8 Music as Sound 
 
-## Task 1 
+## Task 1 present the three chosen songs and relative metadata in a table 
 
 <table class="task">
  	<tr class="title"> 
