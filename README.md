@@ -190,7 +190,7 @@ A lot of the time looking at computational analysis is difficult to read because
 
 **K.I.R.K**
 
-<img src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/week9/kkirkweek9.png" style="width:500px;height:500px;">
+<img src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/week9/kirkweek9.png" style="width:500px;height:500px;">
 
 **Ketsa**
 
