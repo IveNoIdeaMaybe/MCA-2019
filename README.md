@@ -229,10 +229,10 @@ A lot of the time looking at computational analysis is difficult to read because
 
 ## task 1  Similarity in Python
 
-<img align="right" width="700" height="700" src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/week10/matrix.png">
+<img align="center" width="500" height="500" src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/week10/matrix.png">
 
 
-
+___
 --- 
 ## task 2 Transcription in MuseScore and SonicVisualizer
 
