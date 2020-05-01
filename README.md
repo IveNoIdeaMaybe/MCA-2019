@@ -229,10 +229,8 @@ A lot of the time looking at computational analysis is difficult to read because
 
 ## task 1  Similarity in Python
 
-<img width="500" height="500" src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/week10/matrix.png">
 
-<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
-
+<img align="left" width="500" height="500" src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/week10/matrix.png">
 
 
 ___
