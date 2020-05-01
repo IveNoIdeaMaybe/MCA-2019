@@ -101,7 +101,7 @@ Here without time playing a factor we can see more clearly the most popular note
 
 This is my favourite dataset visualisation as it shows the nature of Jazz music most clearly. The old style time signiture of 2/2 promotes fast playing and this is what we see here. With a strong trend of high pitch notes being played fast envoking excitement coupled with the relatively slow whole beats at a lower pitch gradually making the tone more serious right before it jumps back up to the higher registers. 
 
-# Week5 
+# Week5: Creating a Metadata Scheme
 <b>
  
 * Title 
