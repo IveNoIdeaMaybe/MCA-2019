@@ -135,9 +135,8 @@ the piece on show through Verovio as well as all of the information stated above
 
 # Week 8 Music as Sound 
 
-## Task 1 
+## Task 1: presenting the three chosen songs and relative metadata in a table 
 
-present the three chosen songs and relative metadata in a table 
 
 
 **Table** 
@@ -153,8 +152,7 @@ present the three chosen songs and relative metadata in a table
 
 ### Task 2 
 
-here are the respective wavelenghts and spectograms of my three songs - this is just a section, you can click on them to see the
-full waveform/spectogram. 
+#### here are the respective wavelenghts and spectograms of my three songs - this is just a section, you can click on them to see the full waveform/spectogram. 
 
 **Scott Holmes**
 
@@ -243,7 +241,7 @@ ___
 
 ## Task2.2
 
-### I wondered when reading the instructions for this exercise why we were doing this. I had some preconceived notion that because the sound was coming from the computer in the first place - rather than say speech recognition failing - there would be no problem interpreting the notes back into their correct places. Clearly as you can see above this was not the case, and to listen to it is even more amusing. I understand now that the sound file being manipulated into first a wave file then translated in SconicVisualizer into  a Polyphonic transcription pane then exported as a midi file there is so much messiness and confusion between what is being saved and analysed and what is being left behind. It changed the time from 2/2 to 4/4 and I think this was the first step into making the piece look and sounds drastically different. You can see the confusion it has at some points with the ridiculous complexity it tries to give as an answer, for instance lines 18, 3 and 7 are particularly off the mark 
+#### I wondered when reading the instructions for this exercise why we were doing this. I had some preconceived notion that because the sound was coming from the computer in the first place - rather than say speech recognition failing - there would be no problem interpreting the notes back into their correct places. Clearly as you can see above this was not the case, and to listen to it is even more amusing. I understand now that the sound file being manipulated into first a wave file then translated in SconicVisualizer into  a Polyphonic transcription pane then exported as a midi file there is so much messiness and confusion between what is being saved and analysed and what is being left behind. It changed the time from 2/2 to 4/4 and I think this was the first step into making the piece look and sounds drastically different. You can see the confusion it has at some points with the ridiculous complexity it tries to give as an answer, for instance lines 18, 3 and 7 are particularly off the mark 
 
 
 
