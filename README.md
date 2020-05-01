@@ -184,6 +184,8 @@ A lot of the time looking at computational analysis is difficult to read because
 
 ## Task 1: Extract features 
 
+#### For this week we had to transform three songs to analyse them in a different way. Ive used the same songs from last week, from top to bottom the visualisations are ordered: Spectrogram, Mel Frequency Cepstral Coefficients and Chromgrams. 
+
 **Scott Holmes**
 
 <img src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/week9/upbeatweek9.png" style="width:500px;height:500px;">
@@ -196,9 +198,11 @@ A lot of the time looking at computational analysis is difficult to read because
 
 <img src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/week9/ketsaweek9.png" style="width:500px;height:500px;">
 
-## Task 2.1: Computing and visualising histograms
+## Task 2: Computing and visualising histograms
 
-### Histograms from spectograms
+### Task 2.1: presenting histograms
+
+#### Histograms from spectograms
 
 
 |Scott Holmes          |  K.I.R.K                  |    Ketsa         |
@@ -217,7 +221,9 @@ A lot of the time looking at computational analysis is difficult to read because
 |---------------------|-------------------------|----------------|
 ![](https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/week9/upbeatmelhisto.png) |![](https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/week9/kirksmelhist.png)|![](https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/week9/Ketsamelhist.png)|
 
+## Task 2.2 Comparing the histograms
 
+#### I am going to compare the MFCCs from each song. Ive chosen to compare the mel frequency cepstral coefficient histograms because they are strikingly similar and this is not to be expected. Nevertheless it is the slightness of differences which represent a lot which is interesting. with MFCCs recording tone quality or character. This has made MFCC's very popular in speech recognition software. Something further strange is that no two of my songs are similar but each join up in different windows. Such as Scott Holmes and Ketsa in the first window whilst K.I.R.K and Ketsa are more alike on the 16th window. I believe this is because they all contain a variation of instruments and vocals meaning at certain points they are more akin. Particularly the 5th and 18th window are quite unique between the three. 
 
 # Week 10 
 
