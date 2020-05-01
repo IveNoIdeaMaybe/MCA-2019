@@ -211,6 +211,11 @@ A lot of the time looking at computational analysis is difficult to read because
 |---------------------|-------------------------|----------------|
 ![](https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/week9/upbeatchronohist.png) |![](https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/week9/kirkschronohist.png )|![](https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/week9/Ketsaschronohist.png )|
 
+### Histograms computed from MFCCs
+ 
+|Scott Holmes          |  K.I.R.K                  |    Ketsa         |
+|---------------------|-------------------------|----------------|
+![](https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/week9/upbeatmelhisto.png) |![](https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/week9/kirksmelhist.png)|![](https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/week9/Ketsamelhist.png)|
 
 
 
