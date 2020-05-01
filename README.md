@@ -196,10 +196,20 @@ A lot of the time looking at computational analysis is difficult to read because
 
 <img src="https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/week9/ketsaweek9.png" style="width:500px;height:500px;">
 
-## Task 2 Histiograms 
+## Task 2.1: Computing and visualising histograms
+
+### Histograms from spectograms
+
+
 |Scott Holmes          |  K.I.R.K                  |    Ketsa         |
 |---------------------|-------------------------|----------------|
 ![](https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/week9/upbeatspectohist.png) |![](https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/week9/kirkspectohist.png )|![](https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/week9/Ketsaspectohist.png )|
+
+### Histograms computed from chromagrams
+ 
+|Scott Holmes          |  K.I.R.K                  |    Ketsa         |
+|---------------------|-------------------------|----------------|
+![](https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/week9/upbeatchronohist.png) |![](https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/week9/kirkschronohist.png )|![](https://github.com/IveNoIdeaMaybe/MCA-2019/blob/master/data/week9/Ketsaschronohist.png )|
 
 
 
